@@ -1,2 +1,8 @@
 # nextJS
-Clone repo, cd nextJS, npm i, npm run dev
+
+Clone repo
+```javascript
+cd nextJS
+npm i
+npm run dev
+```
